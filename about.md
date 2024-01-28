@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Hi! I'm Rushitha and I'm a Senior studing CS. Through the years, I found an interest for Data Analytics and Data Science. Outside of school you can find me at the gym, dancing, or socializing.
 
