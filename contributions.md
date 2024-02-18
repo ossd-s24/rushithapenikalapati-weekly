@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Feb 18   | [Link](https://en.wikipedia.org/w/index.php?title=Portal:Current_events/2024_February_18&action=submit)    | Wikipedia edit    |   I added a current event for February 18, 2024    |
 |     |     |     |      |
 |     |     |     |      |
