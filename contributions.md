@@ -26,3 +26,4 @@ Replace the first row with your own contribution.
 |  Feb 21   |  [Link](https://www.openstreetmap.org/changeset/147743744#map=19/26.09721/-80.38150)    | OpenStreet Map feature    |   I added a new feature to the map. More specifically, I added "Panna" one of my favorite restaurants in my hometown to the map.    |
 |  April 28   |  [Link](https://github.com/SPLWare/esProc/issues/51)   |  esProc   |  I raised an issue to add a Code of Conduct  |
 | April 28   | [Link](https://en.wikipedia.org/w/index.php?title=Stuyvesant_Town%E2%80%93Peter_Cooper_Village&action=history)    | Wikipedia edit    |   I added a section about the amenities in Stuyvesant Town    |
+|  April 28   |  [Link](https://www.openstreetmap.org/changeset/150642803)    | OpenStreet Map feature    |   I added a new restaurant that opened up on E 9th St.    |
